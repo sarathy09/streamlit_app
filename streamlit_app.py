@@ -1,5 +1,5 @@
 import streamlit
-import pandas ad pd
+import pandas as pd
 
 streamlit.title("Happy Restaurant")
 streamlit.header('Breakfast Menu')
