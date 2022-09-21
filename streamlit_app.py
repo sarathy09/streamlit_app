@@ -1,6 +1,8 @@
 import streamlit
 
 streamlit.title("Happy Restaurant")
-streamlit.header("Meal Menu")
-streamlit.text("Chicken Biryani")
-streamlit.text("Mutton Biryani")
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
